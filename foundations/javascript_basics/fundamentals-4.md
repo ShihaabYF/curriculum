@@ -51,7 +51,7 @@ Follow the steps below to get started. Once you complete Step 1, be sure to use 
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
-* It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+[Arrays with MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays#finding_the_index_of_items_in_an_array)
 
 ### Knowledge Check
 
