@@ -62,8 +62,8 @@ When your HTML code is parsed by a web browser, it is converted to the DOM as wa
 
 #### Query Selectors
 
-*   _element_.querySelector\(_selector_\) returns a reference to the first match of _selector_
-*   _element_.querySelectorAll\(_selectors_\) returns a "nodelist" containing references to all of the matches of the _selectors_
+*   _document_.querySelector\(_selector_\) returns a reference to the first match of _selector_
+*   _document_.querySelectorAll\(_selectors_\) returns a "nodelist" containing references to all of the matches of the _selectors_
 
 \*_There are several other, more specific queries, that offer potential \(marginal\) performance benefits, but we won't be going over them now._
 
